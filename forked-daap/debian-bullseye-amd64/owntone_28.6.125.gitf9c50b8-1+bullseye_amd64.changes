@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sat, 24 Jun 2023 07:24:44 +0000
+Source: owntone
+Binary: owntone owntone-dbgsym
+Architecture: amd64
+Version: 28.6.125.gitf9c50b8-1+bullseye
+Distribution: bullseye
+Urgency: medium
+Maintainer: Espen Jürgensen <espenjurgensen+raspbian@gmail.com>
+Changed-By: <runner@fv-az577-654.m1ymwixnccyeph3re32eo5iu0d.dx.internal.cloudapp.net>
+Description:
+ owntone    - Serves your local music library and Spotify library to AirPlay,
+Changes:
+ owntone (28.6.125.gitf9c50b8-1+bullseye) bullseye; urgency=medium
+ .
+   * Dummy changelog @commit f9c50b80fc5a18e1c39dd7639be9ee178110f2b3
+Checksums-Sha1:
+ 899731c1333da60ca1b1d3bda2d260b62806ebc8 1435476 owntone-dbgsym_28.6.125.gitf9c50b8-1+bullseye_amd64.deb
+ 689b364efd62649d8743378c2ae49ff99e8970c4 12515 owntone_28.6.125.gitf9c50b8-1+bullseye_amd64.buildinfo
+ f061cbb1a2a7cabfd2d3368a1b1dbe6756019b52 716728 owntone_28.6.125.gitf9c50b8-1+bullseye_amd64.deb
+Checksums-Sha256:
+ a00c990d29a29698e670a91ed4a603ecd7a5a54c972a34986acdd5eb24babb15 1435476 owntone-dbgsym_28.6.125.gitf9c50b8-1+bullseye_amd64.deb
+ 7cee53527674d31ce775457d1fde8e0a090778496589a6fa10cd3ac514e9fefa 12515 owntone_28.6.125.gitf9c50b8-1+bullseye_amd64.buildinfo
+ 171c8ec729af6af3344d02f0dcba4ff6d2892c6af71ad759200cd27792647783 716728 owntone_28.6.125.gitf9c50b8-1+bullseye_amd64.deb
+Files:
+ bb260dd802c1fbfa2aad8e100cde8fa5 1435476 debug optional owntone-dbgsym_28.6.125.gitf9c50b8-1+bullseye_amd64.deb
+ 3583025acb837a0293d2780f59800ff9 12515 sound optional owntone_28.6.125.gitf9c50b8-1+bullseye_amd64.buildinfo
+ a0d72fc3cb27e4b4442cb1775c44198c 716728 sound optional owntone_28.6.125.gitf9c50b8-1+bullseye_amd64.deb

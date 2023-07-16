@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sat, 24 Jun 2023 07:24:44 +0000
+Source: owntone
+Architecture: source
+Version: 28.6.125.gitf9c50b8-1+bullseye
+Distribution: bullseye
+Urgency: medium
+Maintainer: Espen Jürgensen <espenjurgensen+raspbian@gmail.com>
+Changed-By:  <runner@fv-az577-654.m1ymwixnccyeph3re32eo5iu0d.dx.internal.cloudapp.net>
+Changes:
+ owntone (28.6.125.gitf9c50b8-1+bullseye) bullseye; urgency=medium
+ .
+   * Dummy changelog @commit f9c50b80fc5a18e1c39dd7639be9ee178110f2b3
+Checksums-Sha1:
+ 21bd70c56566aa10cdaf49f70f5a405f86fb182c 1477 owntone_28.6.125.gitf9c50b8-1+bullseye.dsc
+ 22db571bb5f87641d20650bcf4b9db6cecb5e0e7 5713280 owntone_28.6.125.gitf9c50b8.orig.tar.gz
+ 443d9e1f73bb7347c853aa0bbd9fbcb132046e6a 2952 owntone_28.6.125.gitf9c50b8-1+bullseye.debian.tar.xz
+ 689b364efd62649d8743378c2ae49ff99e8970c4 12515 owntone_28.6.125.gitf9c50b8-1+bullseye_amd64.buildinfo
+Checksums-Sha256:
+ 11726ae6668e90129fbde0e6754538169e766c285cfa1f27016d1111b33e9631 1477 owntone_28.6.125.gitf9c50b8-1+bullseye.dsc
+ e3c2944b7445414ec2fb9dc06728cb3cd930e72e9fb7864c0ed10984e334f27e 5713280 owntone_28.6.125.gitf9c50b8.orig.tar.gz
+ 516d4149107332a04473d800a4294b6095e515d3e79b437eb5422189b460e87c 2952 owntone_28.6.125.gitf9c50b8-1+bullseye.debian.tar.xz
+ 7cee53527674d31ce775457d1fde8e0a090778496589a6fa10cd3ac514e9fefa 12515 owntone_28.6.125.gitf9c50b8-1+bullseye_amd64.buildinfo
+Files:
+ d24d7eb928bd4cd43e75fb46e7aa38be 1477 sound optional owntone_28.6.125.gitf9c50b8-1+bullseye.dsc
+ b1a4cb10abb3bf5d013cb0766db1cfac 5713280 sound optional owntone_28.6.125.gitf9c50b8.orig.tar.gz
+ 285a7a50079eb2b71a4f3cfdd60d6368 2952 sound optional owntone_28.6.125.gitf9c50b8-1+bullseye.debian.tar.xz
+ 3583025acb837a0293d2780f59800ff9 12515 sound optional owntone_28.6.125.gitf9c50b8-1+bullseye_amd64.buildinfo
