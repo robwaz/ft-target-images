@@ -9,7 +9,7 @@ function build() {
   popd
 }
 
-for d in $(find . -type d | grep -vE '\.$' | tr -d './'); do
+for d in $(find . -type d | grep -vE '\.$|.*git.*' | tr -d './'); do
   build $d
   if [[ -z "$(docker image ls | grep $d)" ]]; then
     echo "Error building $d"
