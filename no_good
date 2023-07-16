@@ -1,1 +1,6 @@
-exim 
+openssh - Lib
+openssl - Lib
+exim  - Cannot be called independently, requires another program to call it
+dcmtk -  Is a collection of tools, no clear target
+
+Note: live555 is WIP
